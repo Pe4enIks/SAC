@@ -6,3 +6,4 @@
 3. [вариант 0](/sac_tasks/sac_3.pdf)
 4. [вариант 6](/sac_tasks/sac_4.pdf)
 5. [вариант 0](/sac_tasks/sac_5.pdf)
+7. [вариант 0](/sac_tasks/sac_7.pdf)
